@@ -1,0 +1,15 @@
+Merhaba dostum satın alımın için çok teşekkür ederim, baştan uyarayım benden alıp satmak tamamen yasak anında şikayet ederim, TOLERANS YOKTUR.
+------------
+Kurulum:
+-
+1. = Python'u yükleyin (zaten varsa tekrar indirmenize gerek yok.) https://www.python.org/downloads/
+2. = setup.bat'ı açın
+3. = https://discord.com/developers/applications Bu linke girerek bir bot oluşturun.
+4. = "Bot"'a tıklayın ardından biraz aşşağı kaydırın "Privileged Gateway Intents" yazısını göreceksiniz orada gördüğünüz 3 tiki de etkinleştirin.
+5. = Altta "Bot Permissions" Göreceksiniz onu "Administrator"u seçin.
+6. = Soldan "OAuth2"a girin ve çıkan 2 yerde altında "URL Generator"a basın.
+7. = Alttaki seçeneklerden "bot" u işaretleyin allta bir yer daha açılacak oradan da "Administrator"u seçin.
+8. = Botu patlatmak istediğiniz sunucuya davet edin.
+9. = Tekraradan solda gördüğünüz "Bot" a tıklayın ve "Reset Token" e basıp kopyalayın, programı açınca size lazım olacak.OAuth2
+
+Hayırlı olsun!
