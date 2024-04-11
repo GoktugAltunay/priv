@@ -1,0 +1,5 @@
+Setup.Bat'ı açın.
+
+(pip ve python bilgisayarınızda yüklü olmalı)
+
+ErencanDeniz tarafından editlenmiştir. Satılması tamamıyla yasaktır. Satan olursa direkt şikayet edilecektir. TOLERANS YOKTUR!
