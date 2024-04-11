@@ -1,0 +1,9 @@
+Merhabalar, satın alımınız için teşekkürler. Kurulum için gereken adımlar:
+
+1.  Python'u yükleyin (zaten varsa tekrar indirmenize gerek yok.) https://www.python.org/downloads/ 
+2.  Herhangi bir boşluğa sağ tıklayın ve "open with terminal"'e tıklayın. (Terminalde aç da olabilir.) Terminal yoksa : https://learn.microsoft.com/en-us/windows/terminal/install
+3.  Terminal ile açtıktan sonra bunu yazın = pip install -r requirements.txt
+4.  İndirdime işlemi bittikten sonra bunu yazın = py vc.py
+---
+Bu kadar, hayırlı olsun :) itempazar.com/profil/erencandeniz
+
