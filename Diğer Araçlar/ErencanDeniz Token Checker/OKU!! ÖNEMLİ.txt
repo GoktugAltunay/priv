@@ -1,0 +1,9 @@
+Bu klasörde sağ tıklayıp "Cmd ile aç" ya da "Terminal ile aç" diyip 
+
+npm i discord.js-selfbot-v13
+
+kodunu yapıştırın.
+
+Daha sonra "tokenler.txt" adlı metin belgesine kontrol etmek istediğiniz tokenleri yazın.
+
+başlat.bat'ı açın
